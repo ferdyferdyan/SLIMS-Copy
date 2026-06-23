@@ -18,7 +18,7 @@ Dikembangkan oleh: **Ruang Perpustakaan** ([ruangperpustakaan.com](https://ruang
 ⚙️ Konfigurasi Daftar Katalog (Server List)
 Sebelum atau sesudah aktivasi, Anda dapat menyesuaikan daftar alamat server katalog target di dalam file konfigurasi plugin:
 
-Lokasi File: inlislite_copy_cataloging/server_list.inc.php
+Lokasi File: SLIMS_COPY/server_list.inc.php
 
 Petunjuk: Buka file tersebut menggunakan text editor, lalu tambahkan baris kode daftar perpustakaan berbasis SLiMS yang ingin dijadikan target pencarian pada variabel array yang tersedia.
 

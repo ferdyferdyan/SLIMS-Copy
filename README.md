@@ -27,9 +27,9 @@ Petunjuk: Buka file tersebut menggunakan text editor, lalu tambahkan baris kode 
 
 2. Buka modul System (Sistem) pada menu navigasi utama.
 
-3. Pilih sub-menu Plugins (Pengaya).
+3. Pilih sub-menu Plugins.
 
-4. Cari nama plugin SLiMS Copy Cataloging / inlislite_copy_cataloging.
+4. Cari nama plugin SLiMS Copy
 
 5. Ubah status plugin dari Nonaktif menjadi Aktif.
 
